@@ -1,0 +1,301 @@
+[33m610deb5[m[33m ([m[1;36mHEAD -> [m[1;32mpost-demo[m[33m, [m[1;31mmi-repo/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: merge main: Fast-forward
+[33m582ab43[m HEAD@{1}: checkout: moving from main to post-demo
+[33m610deb5[m[33m ([m[1;36mHEAD -> [m[1;32mpost-demo[m[33m, [m[1;31mmi-repo/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from post-demo to main
+[33m582ab43[m HEAD@{3}: checkout: moving from main to post-demo
+[33m610deb5[m[33m ([m[1;36mHEAD -> [m[1;32mpost-demo[m[33m, [m[1;31mmi-repo/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: checkout: moving from post-demo to main
+[33m582ab43[m HEAD@{5}: checkout: moving from main to post-demo
+[33m610deb5[m[33m ([m[1;36mHEAD -> [m[1;32mpost-demo[m[33m, [m[1;31mmi-repo/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: merge post-demo2: Merge made by the 'ort' strategy.
+[33m74f1e82[m HEAD@{7}: pull --tags origin main: Fast-forward
+[33m0e4f122[m HEAD@{8}: checkout: moving from post-demo2 to main
+[33m40d2d39[m[33m ([m[1;32mpost-demo2[m[33m)[m HEAD@{9}: commit: .
+[33m582ab43[m HEAD@{10}: checkout: moving from post-demo to post-demo2
+[33m582ab43[m HEAD@{11}: commit: ..
+[33mc9691b2[m HEAD@{12}: commit: .
+[33m0e4f122[m HEAD@{13}: checkout: moving from main to post-demo
+[33m0e4f122[m HEAD@{14}: pull --tags origin main: Fast-forward
+[33mc6af595[m HEAD@{15}: checkout: moving from fix-predemo-4 to main
+[33m7e55f82[m[33m ([m[1;32mfix-predemo-4[m[33m)[m HEAD@{16}: commit: fixes
+[33mdd94850[m[33m ([m[1;32mredux-error-in-signup[m[33m, [m[1;32mfix-postdemo[m[33m)[m HEAD@{17}: checkout: moving from fix-postdemo to fix-predemo-4
+[33mdd94850[m[33m ([m[1;32mredux-error-in-signup[m[33m, [m[1;32mfix-postdemo[m[33m)[m HEAD@{18}: checkout: moving from redux-error-in-signup to fix-postdemo
+[33mdd94850[m[33m ([m[1;32mredux-error-in-signup[m[33m, [m[1;32mfix-postdemo[m[33m)[m HEAD@{19}: commit: show error
+[33mb145874[m[33m ([m[1;32msocial-media-fix[m[33m)[m HEAD@{20}: checkout: moving from social-media-fix to redux-error-in-signup
+[33mb145874[m[33m ([m[1;32msocial-media-fix[m[33m)[m HEAD@{21}: commit: fox
+[33me57cbde[m[33m ([m[1;32mcart-fix[m[33m)[m HEAD@{22}: checkout: moving from cart-fix to social-media-fix
+[33me57cbde[m[33m ([m[1;32mcart-fix[m[33m)[m HEAD@{23}: commit: fix
+[33m28bbdc5[m[33m ([m[1;32mfinder-fix[m[33m)[m HEAD@{24}: checkout: moving from finder-fix to cart-fix
+[33m28bbdc5[m[33m ([m[1;32mfinder-fix[m[33m)[m HEAD@{25}: commit: fix
+[33mc6af595[m HEAD@{26}: checkout: moving from main to finder-fix
+[33mc6af595[m HEAD@{27}: pull --tags origin main: Fast-forward
+[33m7bd04e7[m HEAD@{28}: checkout: moving from fixes-predemo-4 to main
+[33mced892a[m[33m ([m[1;32mfixes-predemo-4[m[33m, [m[1;32mfixes-predemo-3[m[33m, [m[1;32mfixes-predemo-2[m[33m)[m HEAD@{29}: checkout: moving from fixes-predemo-3 to fixes-predemo-4
+[33mced892a[m[33m ([m[1;32mfixes-predemo-4[m[33m, [m[1;32mfixes-predemo-3[m[33m, [m[1;32mfixes-predemo-2[m[33m)[m HEAD@{30}: checkout: moving from main to fixes-predemo-3
+[33m7bd04e7[m HEAD@{31}: checkout: moving from fixes-predemo-3 to main
+[33mced892a[m[33m ([m[1;32mfixes-predemo-4[m[33m, [m[1;32mfixes-predemo-3[m[33m, [m[1;32mfixes-predemo-2[m[33m)[m HEAD@{32}: checkout: moving from fixes-predemo-2 to fixes-predemo-3
+[33mced892a[m[33m ([m[1;32mfixes-predemo-4[m[33m, [m[1;32mfixes-predemo-3[m[33m, [m[1;32mfixes-predemo-2[m[33m)[m HEAD@{33}: commit: .
+[33m7bd04e7[m HEAD@{34}: merge main: Fast-forward
+[33m9116a2c[m HEAD@{35}: checkout: moving from main to fixes-predemo-2
+[33m7bd04e7[m HEAD@{36}: pull --tags origin main: Fast-forward
+[33meb3418b[m HEAD@{37}: checkout: moving from fixes-predemo-2 to main
+[33m9116a2c[m HEAD@{38}: commit: .
+[33m2ca0f9d[m HEAD@{39}: commit: fix-errores y warnings chrome
+[33ma18bf4e[m HEAD@{40}: commit: fix-errors in vscode
+[33m61b2468[m HEAD@{41}: checkout: moving from main to fixes-predemo-2
+[33meb3418b[m HEAD@{42}: pull --tags origin main: Fast-forward
+[33md42b467[m HEAD@{43}: checkout: moving from fixes-predemo-2 to main
+[33m61b2468[m HEAD@{44}: commit: fix favoritos + clean console.logs
+[33m59c2d4e[m HEAD@{45}: commit: .
+[33m7e32400[m HEAD@{46}: merge main: Merge made by the 'ort' strategy.
+[33m5762bc1[m HEAD@{47}: checkout: moving from main to fixes-predemo-2
+[33md42b467[m HEAD@{48}: pull --tags origin main: Fast-forward
+[33mb2d31ba[m HEAD@{49}: pull --tags origin main: Fast-forward
+[33mf018d17[m HEAD@{50}: pull --tags origin main: Fast-forward
+[33m58f8504[m[33m ([m[1;32mfix-predemo[m[33m)[m HEAD@{51}: checkout: moving from fixes-predemo-2 to main
+[33m5762bc1[m HEAD@{52}: commit: added user verify status in dashboard admin
+[33m8f3a7c5[m HEAD@{53}: commit: fix-userbarchart-enteros + tooltips del comic
+[33m36956ea[m HEAD@{54}: commit: * de comic
+[33m58f8504[m[33m ([m[1;32mfix-predemo[m[33m)[m HEAD@{55}: checkout: moving from fix-predemo to fixes-predemo-2
+[33m58f8504[m[33m ([m[1;32mfix-predemo[m[33m)[m HEAD@{56}: merge main: Fast-forward
+[33m81658c9[m HEAD@{57}: checkout: moving from main to fix-predemo
+[33m58f8504[m[33m ([m[1;32mfix-predemo[m[33m)[m HEAD@{58}: checkout: moving from fix-predemo to main
+[33m81658c9[m HEAD@{59}: checkout: moving from main to fix-predemo
+[33m58f8504[m[33m ([m[1;32mfix-predemo[m[33m)[m HEAD@{60}: reset: moving to HEAD
+[33m58f8504[m[33m ([m[1;32mfix-predemo[m[33m)[m HEAD@{61}: pull --tags origin main: Fast-forward
+[33m6916982[m HEAD@{62}: checkout: moving from fix-predemo to main
+[33m81658c9[m HEAD@{63}: checkout: moving from main to fix-predemo
+[33m6916982[m HEAD@{64}: pull --tags origin main: Fast-forward
+[33m8ea67e3[m HEAD@{65}: pull --tags origin main: Fast-forward
+[33mebcc870[m HEAD@{66}: checkout: moving from fix-predemo to main
+[33m81658c9[m HEAD@{67}: commit: fix-estilos
+[33m30e1fc6[m HEAD@{68}: checkout: moving from main to fix-predemo
+[33mebcc870[m HEAD@{69}: reset: moving to HEAD
+[33mebcc870[m HEAD@{70}: pull --tags origin main: Fast-forward
+[33m286b24c[m HEAD@{71}: checkout: moving from fix-predemo to main
+[33m30e1fc6[m HEAD@{72}: commit: fix-activate
+[33mcf932d9[m HEAD@{73}: commit: fix-favoritos
+[33m2513dec[m HEAD@{74}: commit: fix-charts-favoritos-reviews-mensajecompra-
+[33m232d3b3[m HEAD@{75}: commit: fix-purchases + predata user y purchases
+[33m286b24c[m HEAD@{76}: checkout: moving from main to fix-predemo
+[33m286b24c[m HEAD@{77}: checkout: moving from fix-category-admin to main
+[33m4b5d309[m HEAD@{78}: checkout: moving from refactor-category to fix-category-admin
+[33m4b5d309[m HEAD@{79}: commit: a
+[33m5cb5353[m HEAD@{80}: commit: aa
+[33m286b24c[m HEAD@{81}: merge main: Fast-forward
+[33m2550bf1[m HEAD@{82}: checkout: moving from main to refactor-category
+[33m286b24c[m HEAD@{83}: checkout: moving from refactor-category to main
+[33m2550bf1[m HEAD@{84}: checkout: moving from main to refactor-category
+[33m286b24c[m HEAD@{85}: pull --tags origin main: Fast-forward
+[33m1020ff7[m HEAD@{86}: pull --tags origin main: Fast-forward
+[33m6da5ac9[m HEAD@{87}: checkout: moving from estilos+debounce+favoritos.fix to main
+[33m451d424[m HEAD@{88}: checkout: moving from refactor-category to estilos+debounce+favoritos.fix
+[33m2550bf1[m HEAD@{89}: checkout: moving from main to refactor-category
+[33m6da5ac9[m HEAD@{90}: checkout: moving from refactor-category to main
+[33m2550bf1[m HEAD@{91}: commit: fix admin
+[33m13eebc1[m HEAD@{92}: commit: frontend-done
+[33m97f6cac[m HEAD@{93}: commit: backend-done
+[33m451d424[m HEAD@{94}: checkout: moving from estilos+debounce+favoritos.fix to refactor-category
+[33m451d424[m HEAD@{95}: merge main: Merge made by the 'ort' strategy.
+[33mf93a1b3[m HEAD@{96}: checkout: moving from main to estilos+debounce+favoritos.fix
+[33m6da5ac9[m HEAD@{97}: pull --tags origin main: Fast-forward
+[33m095b4e7[m HEAD@{98}: checkout: moving from estilos+debounce+favoritos.fix to main
+[33mf93a1b3[m HEAD@{99}: commit: everyhtingi has schagne
+[33m095b4e7[m HEAD@{100}: checkout: moving from main to estilos+debounce+favoritos.fix
+[33m095b4e7[m HEAD@{101}: checkout: moving from Favorites-fixes,-account-activation,-fixes,-etc to main
+[33m12e8d51[m HEAD@{102}: checkout: moving from main to Favorites-fixes,-account-activation,-fixes,-etc
+[33m095b4e7[m HEAD@{103}: pull --tags origin main: Fast-forward
+[33m57bdcbc[m HEAD@{104}: checkout: moving from Plantilla-email-fixx to main
+[33m569a5bf[m HEAD@{105}: commit: union de boton de activacion con lo que habia
+[33m12e8d51[m HEAD@{106}: checkout: moving from Favorites-fixes,-account-activation,-fixes,-etc to Plantilla-email-fixx
+[33m12e8d51[m HEAD@{107}: commit (merge): Merge branch 'main' into Favorites-fixes,-account-activation,-fixes,-etc
+[33m12635ae[m HEAD@{108}: checkout: moving from main to Favorites-fixes,-account-activation,-fixes,-etc
+[33m57bdcbc[m HEAD@{109}: pull --tags origin main: Fast-forward
+[33m04b7e51[m HEAD@{110}: checkout: moving from fix-main to main
+[33m145d183[m HEAD@{111}: commit: .
+[33m04b7e51[m HEAD@{112}: checkout: moving from main to fix-main
+[33m04b7e51[m HEAD@{113}: pull --tags origin main: Fast-forward
+[33m81863da[m HEAD@{114}: checkout: moving from Favorites-fixes,-account-activation,-fixes,-etc to main
+[33m12635ae[m HEAD@{115}: checkout: moving from fabri to Favorites-fixes,-account-activation,-fixes,-etc
+[33m12635ae[m HEAD@{116}: commit: .
+[33m0bb993d[m HEAD@{117}: commit: fix favorites full
+[33mc343f3f[m HEAD@{118}: commit: fix cards favoritos, falta favorites.jsx
+[33m29833ec[m HEAD@{119}: checkout: moving from main to fabri
+[33m81863da[m HEAD@{120}: checkout: moving from fabri to main
+[33m29833ec[m HEAD@{121}: commit: searchBar fix
+[33m4f8fd68[m HEAD@{122}: checkout: moving from main to fabri
+[33m81863da[m HEAD@{123}: reset: moving to origin/main
+[33m5ce8a9a[m HEAD@{124}: reset: moving to HEAD
+[33m5ce8a9a[m HEAD@{125}: checkout: moving from fabri to main
+[33m4f8fd68[m HEAD@{126}: commit (merge): Merge branch 'cartslice-fix' into fabri
+[33m0d1ec2e[m HEAD@{127}: checkout: moving from cartslice-fix to fabri
+[33m5ce8a9a[m HEAD@{128}: checkout: moving from main to cartslice-fix
+[33m5ce8a9a[m HEAD@{129}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33m59639ba[m HEAD@{130}: checkout: moving from fabri to main
+[33m0d1ec2e[m HEAD@{131}: commit: user activate by mail
+[33m7c7f96c[m HEAD@{132}: checkout: moving from main to fabri
+[33m59639ba[m HEAD@{133}: checkout: moving from fabri to main
+[33m7c7f96c[m HEAD@{134}: commit (merge): merged
+[33m1bf0fbb[m HEAD@{135}: checkout: moving from qaaaaaaaaaaaaaaaaaaaa to fabri
+[33mf17e3bc[m HEAD@{136}: checkout: moving from qaaaaaaaaaaaaaaaaaaaa to qaaaaaaaaaaaaaaaaaaaa
+[33mf17e3bc[m HEAD@{137}: checkout: moving from fabri to qaaaaaaaaaaaaaaaaaaaa
+[33m1bf0fbb[m HEAD@{138}: checkout: moving from qaaaaaaaaaaaaaaaaaaaa to fabri
+[33mf17e3bc[m HEAD@{139}: commit: .
+[33m59639ba[m HEAD@{140}: checkout: moving from main to qaaaaaaaaaaaaaaaaaaaa
+[33m59639ba[m HEAD@{141}: commit: Fix set item quantity
+[33m85ff189[m HEAD@{142}: pull --tags origin main: Fast-forward
+[33m37edfaf[m HEAD@{143}: checkout: moving from fabri to main
+[33m1bf0fbb[m HEAD@{144}: commit: .
+[33ma859fe2[m HEAD@{145}: commit: .
+[33mb91a60a[m HEAD@{146}: commit (merge): Merge branch 'main' into fabri
+[33m3df8522[m HEAD@{147}: checkout: moving from main to fabri
+[33m37edfaf[m HEAD@{148}: pull --tags origin main: Fast-forward
+[33mbb10c45[m HEAD@{149}: checkout: moving from fabri to main
+[33m3df8522[m HEAD@{150}: commit: account activate
+[33m61b7274[m HEAD@{151}: checkout: moving from JwtNuevo to fabri
+[33m5b902b5[m HEAD@{152}: commit: jwtfix-admin
+[33mec3633f[m HEAD@{153}: checkout: moving from darkMode-Persistent to JwtNuevo
+[33m5cda296[m HEAD@{154}: commit: darkMode Slice Persistent
+[33mec3633f[m HEAD@{155}: checkout: moving from JwtNuevo to darkMode-Persistent
+[33mec3633f[m HEAD@{156}: checkout: moving from main to JwtNuevo
+[33mbb10c45[m HEAD@{157}: checkout: moving from JwtNuevo to main
+[33mec3633f[m HEAD@{158}: commit: fix users inactive admin + clear console.logs
+[33md5a39df[m HEAD@{159}: commit: fix token
+[33md34ecfd[m HEAD@{160}: commit (merge): merge commit
+[33mae74b8f[m HEAD@{161}: checkout: moving from main to JwtNuevo
+[33mbb10c45[m HEAD@{162}: pull --tags origin main: Fast-forward
+[33m533e258[m HEAD@{163}: checkout: moving from fabri to main
+[33m61b7274[m HEAD@{164}: checkout: moving from test to fabri
+[33m1a27755[m HEAD@{165}: commit: test
+[33m533e258[m HEAD@{166}: checkout: moving from main to test
+[33m533e258[m HEAD@{167}: checkout: moving from fabri to main
+[33m61b7274[m HEAD@{168}: checkout: moving from main to fabri
+[33m533e258[m HEAD@{169}: checkout: moving from fabri to main
+[33m61b7274[m HEAD@{170}: checkout: moving from a to fabri
+[33mab29c4f[m HEAD@{171}: checkout: moving from a to a
+[33mab29c4f[m HEAD@{172}: commit: a
+[33m533e258[m HEAD@{173}: checkout: moving from main to a
+[33m533e258[m HEAD@{174}: pull --tags origin main: Fast-forward
+[33m50346cd[m HEAD@{175}: checkout: moving from fabri to main
+[33m61b7274[m HEAD@{176}: checkout: moving from DarkMode to fabri
+[33mcc5da2e[m HEAD@{177}: commit: .
+[33m50346cd[m HEAD@{178}: checkout: moving from fabri to DarkMode
+[33m61b7274[m HEAD@{179}: checkout: moving from DarkMode to fabri
+[33m50346cd[m HEAD@{180}: checkout: moving from fabri to DarkMode
+[33m61b7274[m HEAD@{181}: checkout: moving from main to fabri
+[33m50346cd[m HEAD@{182}: reset: moving to HEAD
+[33m50346cd[m HEAD@{183}: reset: moving to HEAD
+[33m50346cd[m HEAD@{184}: checkout: moving from DarkMode to main
+[33m50346cd[m HEAD@{185}: merge main: Fast-forward
+[33m283c927[m HEAD@{186}: checkout: moving from main to DarkMode
+[33m50346cd[m HEAD@{187}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33m81f1957[m HEAD@{188}: commit (merge): Merge branch 'DarkMode'
+[33m4d3e680[m HEAD@{189}: checkout: moving from DarkMode to main
+[33m283c927[m HEAD@{190}: checkout: moving from main to DarkMode
+[33m4d3e680[m HEAD@{191}: pull --tags origin main: Fast-forward
+[33m61b7274[m HEAD@{192}: checkout: moving from DarkMode to main
+[33m283c927[m HEAD@{193}: commit: agregado darkmode al cart
+[33m40a0514[m HEAD@{194}: checkout: moving from fabri to DarkMode
+[33m61b7274[m HEAD@{195}: checkout: moving from main to fabri
+[33m61b7274[m HEAD@{196}: commit: cambionombre al token de usuario, varios fixes
+[33mbe2102f[m HEAD@{197}: pull --tags origin main: Fast-forward
+[33m013762f[m HEAD@{198}: checkout: moving from backend_test to main
+[33ma4109be[m HEAD@{199}: checkout: moving from backend_test to backend_test
+[33ma4109be[m HEAD@{200}: commit: .
+[33mbf3d7cc[m HEAD@{201}: commit: test
+[33m013762f[m HEAD@{202}: checkout: moving from main to backend_test
+[33m013762f[m HEAD@{203}: checkout: moving from user-admin to main
+[33m1bbfb50[m HEAD@{204}: commit: user-admin
+[33m013762f[m HEAD@{205}: checkout: moving from main to user-admin
+[33m013762f[m HEAD@{206}: pull --tags origin main: Fast-forward
+[33m0687e52[m HEAD@{207}: checkout: moving from push-this to main
+[33mf0734c6[m HEAD@{208}: commit: yaa
+[33m7c9b9c5[m HEAD@{209}: checkout: moving from fix-predeploy-2 to push-this
+[33m7c9b9c5[m HEAD@{210}: commit: .
+[33m4ae389e[m HEAD@{211}: commit (merge): Merge branch 'main' into fix-predeploy-2
+[33m56d119b[m HEAD@{212}: checkout: moving from main to fix-predeploy-2
+[33m0687e52[m HEAD@{213}: commit: fix-predemo-3
+[33mb021653[m HEAD@{214}: pull --tags origin main: Fast-forward
+[33m5104265[m HEAD@{215}: checkout: moving from fix-predeploy-2 to main
+[33m56d119b[m HEAD@{216}: commit: .
+[33m5104265[m HEAD@{217}: checkout: moving from main to fix-predeploy-2
+[33m5104265[m HEAD@{218}: pull --tags origin main: Fast-forward
+[33mc9b2cdf[m HEAD@{219}: pull --tags origin main: Fast-forward
+[33m9f36142[m HEAD@{220}: pull --tags origin main: Fast-forward
+[33m134baf2[m HEAD@{221}: checkout: moving from fixes-predemo-1 to main
+[33m134baf2[m HEAD@{222}: checkout: moving from main to fixes-predemo-1
+[33m134baf2[m HEAD@{223}: commit: fixes-1-predemo2
+[33m5d0ec0c[m HEAD@{224}: commit (merge): Merge branch 'fixes-fabri'
+[33mfb0bd32[m HEAD@{225}: pull --tags origin main: Fast-forward
+[33m1b07031[m HEAD@{226}: checkout: moving from fixes-fabri to main
+[33meaecf3b[m HEAD@{227}: commit: hay que probar todos estos fixes en deploy
+[33md7002e9[m HEAD@{228}: checkout: moving from nodemailer to fixes-fabri
+[33m66ebe6f[m HEAD@{229}: commit: ahi ta
+[33m5f4d202[m HEAD@{230}: checkout: moving from fixes-fabri to nodemailer
+[33md7002e9[m HEAD@{231}: commit: .
+[33m1b07031[m HEAD@{232}: checkout: moving from main to fixes-fabri
+[33m1b07031[m HEAD@{233}: pull --tags origin main: Fast-forward
+[33m1b6b379[m HEAD@{234}: checkout: moving from back-fix to main
+[33m3de0838[m HEAD@{235}: commit: fix
+[33m1b6b379[m HEAD@{236}: checkout: moving from main to back-fix
+[33m1b6b379[m HEAD@{237}: pull --tags origin main: Fast-forward
+[33m32331d6[m HEAD@{238}: checkout: moving from login to main
+[33m9032f63[m HEAD@{239}: commit (merge): Merge branch 'main' into login
+[33m8bee010[m HEAD@{240}: checkout: moving from main to login
+[33m32331d6[m HEAD@{241}: checkout: moving from login to main
+[33m8bee010[m HEAD@{242}: commit: loginwork + FIX RUTAS BACK
+[33md2db853[m HEAD@{243}: checkout: moving from main to login
+[33m32331d6[m HEAD@{244}: pull --tags origin main: Fast-forward
+[33md2db853[m HEAD@{245}: checkout: moving from login to main
+[33md2db853[m HEAD@{246}: reset: moving to HEAD
+[33md2db853[m HEAD@{247}: checkout: moving from main to login
+[33md2db853[m HEAD@{248}: pull --tags origin main: Fast-forward
+[33m21ee38f[m HEAD@{249}: checkout: moving from deploy-push to main
+[33m91bcc9b[m HEAD@{250}: commit: .
+[33md8154ac[m HEAD@{251}: commit: .
+[33m09e3508[m HEAD@{252}: commit: .
+[33mae9c4a9[m HEAD@{253}: commit: push to main
+[33m74f27ea[m HEAD@{254}: checkout: moving from Deploy to deploy-push
+[33m74f27ea[m HEAD@{255}: checkout: moving from main to Deploy
+[33m21ee38f[m HEAD@{256}: checkout: moving from Deploy to main
+[33m74f27ea[m HEAD@{257}: commit: .
+[33mf084538[m HEAD@{258}: commit: fix-predemo2
+[33m9cff147[m HEAD@{259}: commit: fix-predemo
+[33m65a0e27[m HEAD@{260}: commit: fix rutas login formcreate
+[33mecf6c54[m HEAD@{261}: commit: varios-fixes-filtros-searchbar-loading
+[33m7a7a901[m HEAD@{262}: commit: ...
+[33maa17481[m HEAD@{263}: commit: fix.pathname.titulo
+[33m1b058e1[m HEAD@{264}: commit: ..
+[33me0e1281[m HEAD@{265}: commit: .
+[33md9cea77[m HEAD@{266}: commit: deploy-demo1
+[33me37de80[m HEAD@{267}: commit (merge): Merge branch 'main' into Deploy
+[33m9585444[m HEAD@{268}: checkout: moving from main to Deploy
+[33m21ee38f[m HEAD@{269}: pull --tags origin main: Fast-forward
+[33m1cb10aa[m HEAD@{270}: checkout: moving from fixes to main
+[33mcd7b1a7[m HEAD@{271}: checkout: moving from login-signup-forms to fixes
+[33mcd7b1a7[m HEAD@{272}: commit: fix-forms
+[33m34c4836[m HEAD@{273}: commit: .
+[33m1cb10aa[m HEAD@{274}: merge main: Fast-forward
+[33mc926c4e[m HEAD@{275}: checkout: moving from main to login-signup-forms
+[33m1cb10aa[m HEAD@{276}: pull --tags origin main: Merge made by the 'ort' strategy.
+[33m82e2b59[m HEAD@{277}: commit: fix-forms-signup-login
+[33mecf8784[m HEAD@{278}: pull --tags origin main: Fast-forward
+[33ma7e078a[m HEAD@{279}: checkout: moving from login-signup-forms to main
+[33mc926c4e[m HEAD@{280}: commit: .
+[33mf97b61e[m HEAD@{281}: merge main: Merge made by the 'ort' strategy.
+[33m9e35c48[m HEAD@{282}: checkout: moving from main to login-signup-forms
+[33ma7e078a[m HEAD@{283}: pull --tags origin main: Fast-forward
+[33m4de6969[m HEAD@{284}: checkout: moving from login-signup-forms to main
+[33m9e35c48[m HEAD@{285}: commit: signup-done-commit
+[33m4de6969[m HEAD@{286}: checkout: moving from main to login-signup-forms
+[33m4de6969[m HEAD@{287}: pull --tags origin main: Fast-forward
+[33m6c2db87[m HEAD@{288}: checkout: moving from Deploy to main
+[33m9585444[m HEAD@{289}: commit: fix-routes
+[33mabc2535[m HEAD@{290}: commit: deploy-front-back
+[33mabc907f[m HEAD@{291}: commit: merge-main-deploy
+[33mdd42591[m HEAD@{292}: commit (merge): merge-main-deploy
+[33m579bf01[m HEAD@{293}: checkout: moving from main to Deploy
+[33m6c2db87[m HEAD@{294}: pull: Fast-forward
+[33ma6344d7[m HEAD@{295}: checkout: moving from Deploy to main
+[33m579bf01[m HEAD@{296}: commit: deploy-2
+[33m3203cff[m HEAD@{297}: commit: fix1
+[33macdbbcd[m HEAD@{298}: commit: deploy-1
+[33ma6344d7[m HEAD@{299}: checkout: moving from main to Deploy
+[33ma6344d7[m HEAD@{300}: clone: from https://github.com/Alex-Amenta/PF-Comics.git
